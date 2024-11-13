@@ -2,7 +2,7 @@
 
 <h3 align="left">Fullstack developer from <b>Sichuan, China</b> <img src="https://img.icons8.com/color/96/china-circular.png" width="23"/>. </h3>
 
-### Contact Me:
+### Contact Me
 [![Twitter: Asher Wu](https://img.shields.io/twitter/follow/asherwuu?style=social)](https://x.com/asherwuu)
 [![Telegram Asher Wu](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/asherwu)](https://t.me/asherwu)
 [![Linkedin: Asher Wu](https://img.shields.io/badge/-asherwuu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dong-wu-b4651028b/)](https://www.linkedin.com/in/dong-wu-b4651028b/)
